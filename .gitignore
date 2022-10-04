@@ -135,3 +135,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+congress_data.csv
+*.xml
+.idea/ADS_509_HW4.iml
